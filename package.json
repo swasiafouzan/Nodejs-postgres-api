@@ -1,0 +1,16 @@
+{
+  "name": "node-api-postgres",
+  "version": "1.0.0",
+  "description": "Restful API with node.js, Express, and postgresql",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Wasia Fouzan",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.0",
+    "pg": "^8.12.0"
+  }
+}
